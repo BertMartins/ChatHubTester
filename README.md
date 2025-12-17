@@ -1,6 +1,7 @@
 # ChatHub Tester 🚀
 
 Ferramenta simples para testar **SignalR Hub (ChatHub)** direto no navegador.
+link para testar: https://bertmartins.github.io/ChatHubTester/
 
 ## 🧠 Por que esse projeto existe?
 
