@@ -83,7 +83,3 @@ Isso **não substitui** um frontend completo.
 Mas resolve exatamente o problema que o Postman **não resolve** quando o assunto é SignalR.
 
 Simples. Direto. Funciona.
-
----
-
-Se quiser, eu adapto o README pro seu **nome de projeto real**, adiciono print, GIF ou deixo mais “open source vibes”.
